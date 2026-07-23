@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <div align="center">
 
-<img width="100%" src="./assets/banner.svg" alt="Yashwanth Sai Pathipati — Software Engineer | C/C++ Systems & Distributed Infrastructure"/>
+<img width="100%" src="./assets/banner.png" alt="Yashwanth Sai Pathipati — Software Engineer | C/C++ Systems & Distributed Infrastructure"/>
 
 <a href="https://yashwanthsaipathipati.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/yashwanthsai-pathipati/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
